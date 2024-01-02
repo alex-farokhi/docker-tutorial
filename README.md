@@ -36,3 +36,6 @@ If this is your first time using hello-world image, as it can not find the image
 
 
 *Tip*: When you don't specify the docker registry address in your command by default it will be docker hub registory. Later we will learn how to use other registry to pull/push images from.
+
+
+*Next chapter*: Please go to `docker-image-basic` directory.

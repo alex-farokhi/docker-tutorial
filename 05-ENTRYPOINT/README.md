@@ -32,5 +32,5 @@ But as we said `CMD` can be overridden! How we do that? by passing new parameter
 ```bash
 docker run myimage:1 Alex!
 ``` 
-![docker ENTRYPOINT CMD](../images/container-entrypoint-cmd.jpg "docker ENTRYPOINT CMD")
+![docker ENTRYPOINT CMD](../images/entrypoint-cmd.jpg "docker ENTRYPOINT CMD")
 

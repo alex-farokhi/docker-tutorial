@@ -19,7 +19,7 @@ starts the build process from the Ubuntu 18.04 image.
 ```docker
 FROM ubuntu:latest
 ```
-But it is not recommended in production environments, as it might come with some changes that might affect your code or configuration and break your code.
+Also if you don't provide any version (just the image name) it will be considered as latest by default. Anyway using latest version is not recommended in production environments, as it might come with some changes that might affect your code or configuration and break it.
 
 ---
 

@@ -34,3 +34,4 @@ docker run myimage:1 Alex!
 ``` 
 ![docker ENTRYPOINT CMD](../images/entrypoint-cmd.jpg "docker ENTRYPOINT CMD")
 
+In our example we passed "Alex!" to be replaced by "World!", in real world projects we can pass paramaters like 'prod', 'staging' and 'dev'.

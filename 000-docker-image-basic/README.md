@@ -47,5 +47,11 @@ docker run myfirstimage:1
 ``` 
 ![docker run](../images/docker-run.jpg "docker run")
 
+Another option that you can pass for running your containr is `-d`, it is the detached mode. Basically it will run the container in the background and will give you back your terminal.
+```bash
+docker run -d myfirstimage:1
+``` 
+
 Well done! You learned how to create your own image and run it.
+
 
